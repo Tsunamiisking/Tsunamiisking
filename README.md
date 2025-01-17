@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Allen Oluwatobi Douglas</h1>
-<h3 align="center">I am a software engineering student at Lead City University, Ibadan, Nigeria, with a strong foundation in web design and full-stack development.</h3>
+<h3 align="center">A software engineering student at Lead City University, Ibadan, Nigeria, with a strong foundation in web design and full-stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsunamiisking&label=Profile%20views&color=0e75b6&style=flat" alt="tsunamiisking" /> </p>
 
-- 🔭 I’m currently working on **Start-Up and tech community**
+- 🔭 I’m currently working on a **E-Marketplace and tech community**
 
 - 🌱 I’m currently learning **nextjs, cs50, react, expo, firebase, MongoDB**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **AI integrated projects**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 Most of my projects are available at my git hub profile
 
 - 💬 Ask me about **react, next, oracle, firebase**
 
