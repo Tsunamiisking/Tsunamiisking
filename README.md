@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsunamiisking&label=Profile%20views&color=0e75b6&style=flat" alt="tsunamiisking" /> </p>
 
-- 🔭 I’m currently working on a **E-Marketplace and tech community**
+- 🔭 I’m currently working on an **E-Marketplace and a tech/entrepreneurship community.**
 
-- 🌱 I’m currently learning **nextjs, cs50, react, expo, firebase, MongoDB**
+- 🌱 I’m currently learning **nextjs, cs50, react, expo, firebase, MongoDB.**
 
-- 👯 I’m looking to collaborate on **Mobile Development projects, AI integrated projects,**
+- 👯 I’m looking to collaborate and learn more on **Mobile Development projects, AI integrated projects.**
 
-- 🤝 I’m looking for help with **AI integrated projects**
+- 🤝 I’m looking for help with **AI integrated projects.**
 
-- 👨‍💻 Most of my projects are available at my git hub profile
+- 👨‍💻 Most of my projects are available at my git hub profile and linkedin.
 
 - 💬 Ask me about **react, next, oracle, firebase**
+
+- ⚒️ I am deeply committed to continuous learning and professional growth. My goal is to expand my expertise and develop innovative solutions by embracing challenges and exploring new opportunities. I approach every project with responsibility, dedication, and a drive to deliver meaningful results. I am eager to collaborate, share knowledge, and contribute to impactful initiatives that align with my passion for technology and problem-solving.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
