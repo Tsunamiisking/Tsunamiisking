@@ -15,9 +15,8 @@
 
 - 💬 Ask me about **react, next, oracle, firebase**
 
-- 📫 How to reach me **allenissabigboi@gmail.com**
+- 📫 You can reach me on my email @**allenissabigboi@gmail.com** or Instagram @**ttdotdev**
 
-- ⚡ Fun fact **I read self-help books and**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
