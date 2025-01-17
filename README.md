@@ -15,9 +15,6 @@
 
 - 💬 Ask me about **react, next, oracle, firebase**
 
-- 📫 You can reach me on my email @**allenissabigboi@gmail.com** or Instagram @**ttdotdev**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/allen-douglas-ttdotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allen-douglas-ttdotdev" height="30" width="40" /></a>
