@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, next, oracle, firebase**
 
-- ⚒️ I am deeply committed to continuous learning and professional growth. My goal is to expand my expertise and develop innovative solutions by embracing challenges and exploring new opportunities. I approach every project with responsibility, dedication, and a drive to deliver meaningful results. I am eager to collaborate, share knowledge, and contribute to impactful initiatives that align with my passion for technology and problem-solving.
+- ⚒️ I am deeply committed to continuous learning and professional growth. My goal is to expand my expertise and develop solutions by embracing challenges and exploring new opportunities. I approach every project with responsibility, dedication, and a drive to deliver meaningful results. I am eager to collaborate, share knowledge, and contribute to impactful initiatives that align with my passion for technology and problem-solving.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
