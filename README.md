@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **nextjs, cs50, react, expo, firebase, MongoDB.**
 
-- 👯 I’m looking to collaborate and learn more on **Mobile Development projects, AI integrated projects.**
+- 👯 I’m looking to collaborate and learn more about **Mobile Development projects, AI integrated projects.**
 
 - 🤝 I’m looking for help with **AI integrated projects.**
 
-- 👨‍💻 Most of my projects are available at my git hub profile and linkedin.
+- 👨‍💻 Most of my projects are available at my git hub profile and LinkedIn.
 
 - 💬 Ask me about **react, next, oracle, firebase**
 
-- ⚒️ I am deeply committed to continuous learning and professional growth. My goal is to expand my expertise and develop solutions by embracing challenges and exploring new opportunities. I approach every project with responsibility, dedication, and a drive to deliver meaningful results. I am eager to collaborate, share knowledge, and contribute to impactful initiatives that align with my passion for technology and problem-solving.
+- ⚒️ I am a software engineering student at Lead City University, Ibadan, Nigeria, with a strong foundation in web design and full-stack development. Through self-study, online courses, and collaborative projects, I have developed proficiency in JavaScript and Python. I have worked extensively with frameworks and libraries such as React.js, Next.js, Django, Flask, and Tailwind CSS for Full-stack development, I am Looking to work on projects for personal growth and work opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
