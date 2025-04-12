@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsunamiisking&label=Profile%20views&color=0e75b6&style=flat" alt="tsunamiisking" /> </p>
 
-- 🔭 I’m currently working on an **E-Marketplace and a tech/entrepreneurship community.**
+- 🔭 I’m currently working on **Several web and mobile applications and a tech/entrepreneurship community.**
 
-- 🌱 I’m currently learning **nextjs, cs50, react, expo, firebase, MongoDB.**
+- 🌱 I’m currently learning **react native, nextjs, react, expo, firebase, MongoDB.**
 
 - 👯 I’m looking to collaborate and learn more about **Mobile Development projects, AI integrated projects.**
 
 - 🤝 I’m looking for help with **AI integrated projects.**
 
 - 👨‍💻 Most of my projects are available at my git hub profile and LinkedIn.
-
-- 💬 Ask me about **react, next, oracle, firebase**
 
 - ⚒️ I am a software engineering student at Lead City University, Ibadan, Nigeria, with a strong foundation in web design and full-stack development. Through self-study, online courses, and collaborative projects, I have developed proficiency in JavaScript and Python. I have worked extensively with frameworks and libraries such as React.js, Next.js, Django, Flask, and Tailwind CSS for Full-stack development, I am Looking to work on projects for personal growth and work opportunities.
 
