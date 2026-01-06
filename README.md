@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen Oluwatobi Douglas</h1>
-<h3 align="center">A software engineering student, A Dreamer and Executioner.</h3>
+<h3 align="center">A Software Engineering Student, Dreamer and Executioner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsunamiisking&label=Profile%20views&color=0e75b6&style=flat" alt="tsunamiisking" /> </p>
 
